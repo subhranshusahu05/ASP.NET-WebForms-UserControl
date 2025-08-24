@@ -34,6 +34,8 @@ Registered and added the custom calendar control (UC1:usercalender) inside the f
 Added a Clear Button to reset the form.
 
 4️⃣ Wrote Backend Logic for Main Form (FinalOut.aspx.cs)
+<img width="1920" height="972" alt="photo" src="https://github.com/user-attachments/assets/900e5c79-4999-43a7-9379-5b3bb5cfb8b4" />
+
 
 When the Clear button is clicked:
 
